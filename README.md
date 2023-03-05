@@ -1,3 +1,5 @@
+http://board.dylangiliberto.com
+
 A site where users can register and customize accounts, log in, create and manage threads/topics, post and delete comments, like other users comments, and view other users profiles
 
 Threads, or "Spaces," are places where users can post comments and pictures. Comments are displayed in descending chronoligcial order, mening newest comments are at the top. On the home page, the most recently active threads will appear at the top, just below any threads that are pinned.
